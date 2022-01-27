@@ -1,0 +1,5 @@
+Bob input integer "input.bob" [ 0 1 2 3 ]
+Alice input integer "input.alice" [ 4 5 6 7 ]
+Alice output integer "output.alice" [ 18 ]
+Bob output integer "output.bob" [ 29 ]
+
